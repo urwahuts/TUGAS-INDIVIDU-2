@@ -1,0 +1,104 @@
+1. Apa itu Phyton?
+  phyton adalah salah satu bahasa dari sekian banyak bahasa pemrograman yang paling populer yang digunakan untuk membuat aplikasi, 
+  perintah komputer, dan melakukan analisis data.
+  Sebagai general-purpose language, Python bisa digunakan untuk membuat program apa saja dan menyelesaikan berbagai permasalahan.
+
+2. pa itu Pemrograman Language, dan sebutkan contoh.?
+  Pemrograman Language atau biasa disebut dengan Bahasa Pemrograman atau juga Bahasa Komputer.
+  bahasa pemrogramana adalah suatu kumpulan dari aturan - aturan dan tanda - tanda (syntax & semantik) yang digunakan untuk mendefinisikan suatu program
+  dalam sistem komputer.
+  contoh dari bahasa pemrograman ada sangat banyak, yaitu :
+  1. Python
+  2. Java Script
+  3. SQL
+  4. Java
+  5. PHP
+  dan masih banyak lagi
+  
+3. Perbedaan dari Markup Language apa? dan sebutkan contoh ?
+  Markup Language adalah jenis bahasa yang digunakan untuk memberikan keterangan pada teks dan memberikan tanda pada dokumen elektronik yang ditata secara akurat,
+  terlepas dari jenis platform komputer, jenis OS, Aplikasi ataupun Program.
+  contohnya adalah:
+  HTML, XML, dan XHTML
+  
+  bahasa pemrograman adalah bahasa yang menyediakan seperangkat aturan, sintaks, dan perintah untuk menulis program komputer yang mengimplementasikan algoritma.
+  contohnya adalah:
+  C, C++, Java, Python
+  
+  Perbedaan utama antara bahasa markup dan bahasa pemrograman adalah bahwa bahasa markup mendefinisikan seperangkat aturan untuk menyandikan dokumen 
+  dalam format yang dapat dibaca manusia dan dapat dibaca mesin, sementara bahasa pemrograman menyediakan sekumpulan perintah dan sintaks yang dapat 
+  digunakan untuk menulis program komputer yang dimengerti oleh komputer.
+  
+4. Perbedaan pemrograman konvensional dan visual. dan sebutkan contoh.?
+  Pemrograman visual itu lebih kearah drag and drop object, atau dengan kata lain kita tidak perlu susah payah membuat kodingannya dari awal karena 
+  sudah disediakan, kita tainggal mengatur fungsi dari fitur yang kita buat saja. 
+  Pemrograman visual biasanya berbasis GUI
+  contohnya Visual Basic
+  
+  Sedangkan pemrograman kovensional semuanya kita program dari nol, biasanya berbasis CLI, 
+  contohnya Java
+  
+5. perbedaan dari hard code dan soft code. dan sebutkan contoh ?
+  Hard code atau juga Hardcoding merupakan salah satu praktek yang dilakukan saat menuliskan kode dengan menaruh data secara langsung di kode sumber / source code kita.
+  id, name dan age itu merupakan data. Nah, seharusnya data tersebut tidak boleh dituliskan pada source code kita. Melainkan kita mendapatkan data 
+  tersebut dengan memanggil API.
+  Contoh pemanggilan API
+  
+  Soft Code atau biasa disebut dengan Softcoding adalah istilah pengkodean komputer yang mengacu pada perolehan nilai atau fungsi dari beberapa sumber 
+  daya eksternal, seperti file teks, file INI, makro praprosesor, konstanta eksternal, file konfigurasi, argumen baris perintah, database, input pengguna, 
+  respons server HTTP.
+  
+6. perbedaan interpreter dan compailer. dan sebutkan contoh ?
+  Compiler
+  1. Compiler itu sendiri, yang menerima kode sumber dan menghasilkan bahasa tingkat rendah (assembly).
+  2. Assembler, yang menerima keluaran compiler dan menghasilkan berkas objek dalam bahasa mesin.
+  3. Linker, yang menerima berkas objek keluaran assembler untuk kemudian digabungkan dengan pustaka-pustaka 
+  yang diperlukan dan menghasilkan program yang dapat dieksekusi (executable).
+  
+  Hasil kompilasi dari source code akan berjalan lebih cepat.
+  
+  Bahasa pemrograman yang memerlukan compiler seperti C, C++, C#, Swift, Java
+  
+  Interpreter
+  1. Mengeksekusi kode sumber secara langsung.
+  2. Menerjemahkannya ke dalam serangkaian portable-code atau precompiled-code kemudian mengeksekusinya.
+  3. Mengeksekusi kode yang telah dikompilasi sebelumnya oleh compiler yang merupakan bagian dari sistem penerjemahan.
+  
+  Berjalan lebih lambat ketika dieksekusi.
+  
+  Bahasa pemrograman yang memerlukan interpreter seperti JavaScript, Python, PHP, Ruby.
+  
+7. perbedaan python dengan PL lainnya ?
+  ciri khas paling mencolo dari python adalah, python tidak menggunakan titik koma pada akhir kodenya,
+  dan juga python tidak menggunakan kurung kurawal {}, melainkan menggunakan tab pada block programnya
+  pada bahasa pemrograman yang lain menggunakan istilah array sedangkan python menggunakan istilah list.
+  
+8. perbedaan IDE dan Text Editor? contoh ?
+  Text Editor hanyalah perangkat lunak yang dikhususkan untuk text, seperti pada namanya Text Editor
+  contoh : Notepad
+  
+  IDE adalah kumpulan perangkat lunak serta lengkap yang menyatukan alat pengembang dasar
+  yang diperlukan untuk membangun dan menguji perangkat lunak sehingga pastinya akan lebih kompleks 
+  dari segi program dari pada Text Editor
+  Contoh : Sublime
+  
+9. Sebutkan IDE khusus untuk python dan text editor untuk python ?
+  IDE Python  : Jupyter, Rodeo, VSC, Spyder
+  TE Python   : PyCharm, Atom, VSC
+  
+10. Perbedaan bahasa natural, algoritma, flowchart, dan pseudocode ?
+  Algoritma :
+    langkah-langkah yang disusun secara tertulis dan berurutan untuk menyelesaikan suatu masalah.  
+  Natural Language (Bahasa Natural) : 
+    Struktur penulisan dengan metode natural language lebih mendekati 
+    penulisan algoritma yang digunakan dalam bahasa keseharian. Langkah-langkah yang dibuat bersifat deskriptif, 
+    singkat, padat yang tentunya harus mudah dimengerti. Tidak ada aturan baku yang diikuti dalam penulisan.
+  Flow Chart : 
+    Flowchart atau Bagan Alir merupakan bagan (chart) yang menunjukkan aliran atau runtutan data dan proses yang 
+    terjadi dalam program secara logika. Perancangan algoritma menggunakan flowchart lebih mudah dimengerti 
+    dikarenakan memiliki standar penggunaan yang sama.
+  Pseudocode :
+    Pseudocode (pseudo artinya mirip) adalah sebuah sebuah kode yang menyerupai dengan bahasa pemrograman. dengan kata 
+    lain Pseudocode adalah istilah dalam pemrograman untuk menuliskan sebuah sintaks, statement, algoritma, dan lainnya 
+    dalam bahasa yang bisa dipahami oleh manusia. Sederhananya, pseudocode merupakan bentuk representasi dari kode kita 
+    nantinya dengan versi yang human readable, bukan computer readable.'
